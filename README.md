@@ -30,7 +30,7 @@ Installations Guidance for Wordpress Plugin
 Changelog
 ------------
 
-[Woocommerce RMS Seamless](https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_WooCommerce/releases/tag/v3.2.1) v3.2.1 - Feb 25, 2026
+[Woocommerce RMS Seamless](https://github.com/FiuuPayment/Shopping-Cart-Plugins-Fiuu_WooCommerce/releases/tag/v4.0.0) v4.0.0 - Sep 4, 2026
 
 
 Contribution
